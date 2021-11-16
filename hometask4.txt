@@ -1,0 +1,11 @@
+Algas kalkulatora lapa izveidota ar html, css un javascript palīdzību.
+
+Html daļa ir veidota no 3 konteineriem - 
+
+1. Konteiners ietver h1 virsrakstu, informācijas ievades laukumu input un paskaidrojošo 
+tekstu zem tega p. Input laukumā lietotājam ir jāievada savs algas apjoms.
+
+2. Konteiners ietver paskaidrojošo tekstu ar tegu p un span izvades laukumu, kurā parādās funkcijas rezultāts.
+
+3. Konteiners ir uztaisīts kā footer tipa elements, kas atrodas zem vajadzīgās informācijas un paskaidro programmā notiekošos procesus
+JavaScript sadaļa ir uzrakstīts scripts, kas ar funkcijas palīdzību ievadītos skaitļus pareizina, sadala, aprēķina un izvada lietotājam redzamā vietā.
